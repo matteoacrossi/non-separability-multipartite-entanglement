@@ -1,0 +1,1 @@
+[{"backend": "ibmq_singapore", "description": "Circuits for inferring the separability of a quantum state", "jobs": {"jobid": "5ec2e7bb9ee866001371764f", "description": "SIC-POVM setup on top-most qubits", "metadata": {"shots": 8192, "n_circuits": 20, "side": "top"}}}]
