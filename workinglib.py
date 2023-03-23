@@ -1,7 +1,8 @@
+import itertools
+
 import numpy as np
 from baseconvert import base
-import itertools
-from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
+from qiskit import ClassicalRegister, QuantumCircuit, QuantumRegister
 
 
 def label(index, s, t):
